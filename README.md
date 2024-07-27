@@ -1,5 +1,5 @@
 # Ball Game
-#instagram : @amirali.aaa_
+#instagram : @amirali.aaa_ 
 
 This is a simple and fun ball game created using Pygame. The objective is to navigate the ball to avoid various obstacles that appear on the screen. As you successfully pass obstacles, your score increases, and the game speed accelerates. The game continues until a collision occurs.
 
